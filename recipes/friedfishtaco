@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+
+        </title>
+        <meta charset="utf -8">
+    </head>
+    <body>
+        <h1>Fried Fish Taco</h1>
+        <img src="../recipes/fishtaco.webp">
+        <h3>Description</h3>
+        <p>Beer battered, fried fish tacos with mix fixings.The fish choice is cod,but had
+            dock is also a good bet.
+        <h4>Ingredients</h4>  
+                 <ul>
+                    <li>1 cup dark beer</li>
+                    <li>1 cup all-purpose flour</li>
+                    <li>1/2 teaspoon salt</li>
+                    <li>1 1/2 pounds cod fillets, cubed</li>
+                    <li>1 quart vegitable oil for fryong</li>
+                    <li>20 (6 inch) corn tortillas</li>
+                    <li>5 cups shredded cabbage</li>
+                    <li>1 mayonnaise</li>
+                    <li>1/4 cup salsa</li>
+                    <li>1 lime cut into wedges</li>
+                 </ul>  
+        <h4>Steps</h4>
+                <ol>
+                    <li>In shallow bowl, whisk together beer, flour and salt.</li>
+
+                    <li>Rinse fish and pat dry then cut it into 10 equal pieces.</li>
+
+                    <li>In large saucepan, heat 1 inch oil in 360 degrees F (168 c).using
+                        fork coat fish pieces in batter, slide coated fishes into hot oil 
+                        batches;adjust the heat to maintain oil temprature.fry until golden, 
+                        about 2 minitues lift out with slotted spoon and drain it briefly on
+                        paper towel;keep warm.Repeat to fry remaining fish.</li>
+
+                    <li>Stack two tortillas.place a piece of fish and 1/2 cup of cabbage in the
+                         center of tortillas then garnish with mayonnaise, lime wedeges and 
+                         salsa.</li>    
+
+
+
+                    
+                </ol>        
+        </p>
+    </body>
+</html>
