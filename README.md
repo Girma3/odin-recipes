@@ -1,1 +1,1 @@
-# odin-recipes
+simple website to show recipes by using html and during this project I use links,images and lists.
